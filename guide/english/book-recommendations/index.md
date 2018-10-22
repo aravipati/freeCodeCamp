@@ -242,6 +242,14 @@ https://books.goalkicker.com/OracleDatabaseBook/
 - [Amazon](https://www.amazon.com/Mastering-Linux-Scripting-Andrew-Mallett/dp/1784396974/)
 - ISBN-13: 978-1784396978
 
+*The Phoenix Project: A Novel about It, DevOps, and Helping Your Business Win*
+-[Amazon](https://smile.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592/)
+- ISBN-13: 978-0988262591
+
+*The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations*
+-[Amazon](https://smile.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002/)
+- ISBN-13: 978-1942788003
+
 This list was compiled from multiple suggestion threads on Reddit and Stackoverflow. 
 
 Please feel free to add more that you have found useful!
